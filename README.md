@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zainab-Khatoon
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Web development
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Web development
 - 📫 How to reach me khatoonzainab1712@gmail.com
 
